@@ -15,14 +15,6 @@ class intRest {
 		$this->restCacheMinutes = $minutes;
 	}
 
-	public function __construct($user, $pwd, $host, $minutes = 10)
-	{
-		$this->restUser = $user;
-		$this->restPwd = $pwd;
-		$this->restHost = $host;
-		$this->restCacheMinutes = $minutes;
-	}
-
 	public function getOrg($query)
 	{
 		return $this->get('org', $query);
