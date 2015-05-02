@@ -1,20 +1,20 @@
 {
-        "name": "dstancer/int-rest-laravel",
-        "description": "Access data for internal REST API in Laravel",
-        "license": "MIT",
-        "version": "0.1",
-        "authors": [
-                {
-                        "name": "Denis Stancer",
-                        "email": "denis.stancer@gmail.com"
-                }
-        ],
-        "autoload": {
-                "psr-4": {
-                        "Srce\\intRest\\": "src/"
-                }
-        },
-        "require": {
-                "php": ">=5.4"
-        }
+	"name": "dstancer/int-rest-laravel",
+	"description": "Access data for internal REST API in Laravel",
+	"license": "MIT",
+	"version": "0.1",
+	"authors": [
+		{
+			"name": "Denis Stancer",
+			"email": "denis.stancer@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Srce\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=5.4"
+	}
 }
