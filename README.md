@@ -2,5 +2,7 @@
 
 Package for accessing internal REST API in Laravel.
 
-# Installing
+## Installing
+
+`composer require dstancer/int-rest-laravel`
 
