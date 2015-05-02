@@ -1,6 +1,6 @@
 <?php namespace Srce;
 
-class intRest {
+class IntRest {
 
 	protected $restUser;
 	protected $restPwd;
