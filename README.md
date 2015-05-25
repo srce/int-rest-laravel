@@ -6,7 +6,7 @@ Package for accessing internal REST API in Laravel.
 
 Use `composer`:
 
-`composer require dstancer/int-rest-laravel`
+`composer require srce/int-rest-laravel`
 
 ## Usage
 
