@@ -1,12 +1,12 @@
 {
-	"name": "dstancer/int-rest-laravel",
+	"name": "srce/int-rest-laravel",
 	"description": "Access data for internal REST API in Laravel",
 	"license": "MIT",
 	"version": "0.1",
 	"authors": [
 		{
 			"name": "Denis Stancer",
-			"email": "denis.stancer@gmail.com"
+			"email": "denis.stancer@srce.hr"
 		}
 	],
 	"autoload": {
